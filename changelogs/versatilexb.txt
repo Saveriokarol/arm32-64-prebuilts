@@ -1,2 +1,5 @@
 1st Changelog:
 - Added Framebuffer support and initrd with squashfs support
+
+2nd Changelog:
+- Added Application+Platform Baseboard support
