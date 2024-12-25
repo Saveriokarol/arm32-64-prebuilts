@@ -38,8 +38,10 @@ Getting Started
 
 1. Clone the repository:
 
-```git clone https://github.com/<your-username>/arm32-64-prebuilts.git  
-cd arm32-64-prebuilts```
+```
+git clone https://github.com/<your-username>/arm32-64-prebuilts.git  
+cd arm32-64-prebuilts
+```
 
 
 2. Explore the folders and select the binaries or tools that fit your needs.
