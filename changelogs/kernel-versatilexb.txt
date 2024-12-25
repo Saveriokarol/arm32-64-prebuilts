@@ -1,0 +1,2 @@
+1st Changelog:
+- Added Framebuffer support and initrd with squashfs support
