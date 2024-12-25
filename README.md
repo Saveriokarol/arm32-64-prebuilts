@@ -39,7 +39,7 @@ Getting Started
 1. Clone the repository:
 
 ```
-git clone https://github.com/<your-username>/arm32-64-prebuilts.git  
+git clone https://github.com/Saveriokarol/arm32-64-prebuilts.git  
 cd arm32-64-prebuilts
 ```
 
