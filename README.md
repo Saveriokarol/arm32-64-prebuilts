@@ -34,7 +34,7 @@ arm32-64-prebuilts/
 
 ---
 
-Getting Started
+# Getting Started
 
 1. Clone the repository:
 
@@ -54,7 +54,7 @@ cd arm32-64-prebuilts
 
 ---
 
-Contributing
+# Contributing
 
 We welcome contributions to this repository. If you'd like to:
 
@@ -70,14 +70,14 @@ Please check out the Contributing Guidelines for more details.
 
 ---
 
-License
+# License
 
 This repository is licensed under the MIT License.
 
 
 ---
 
-Acknowledgments
+# Acknowledgments
 
 Special thanks to the open-source community for contributing and maintaining essential tools for the ARM architecture.
 
