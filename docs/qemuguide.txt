@@ -1,0 +1,17 @@
+QEMU Guide for emulating the kernels:
+
+Info: a.s.a.p. there it will be automated scripts for Bash and Batch
+
+Requirements:
+- QEMU arm32/64 system emulator
+
+Parameters:
+qemu-system-arm (or aarch64 for ARM64)
+-M [your-machine] (do "help" for available machines)
+-kernel [your-image]
+-initrd [your-initrd]
+-append "console=[your-serport] [your-params]"
+-dtb [your-dtb]
+-smp [your-cores] (for performance) (note: many machines do not support your cores count)
+optional: -nographic (do not open gtk and redirect serial to terminal)
+
