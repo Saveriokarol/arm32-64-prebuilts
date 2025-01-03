@@ -2,3 +2,7 @@
 - Added U-Boot binary and executable-linkable file
 - ...with Ext4/3/2 and FAT support
 - ...possible kernel boot with zImage
+
+2nd Changelog:
+- Added U-Boot Android Support
+ (See README)

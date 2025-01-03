@@ -1,0 +1,11 @@
+U-Boot Logs at compilation:
+===================== WARNING ======================
+CONFIG_OF_EMBED is enabled. This option should only
+be used for debugging purposes. Please use
+CONFIG_OF_SEPARATE for boards in mainline.
+See doc/develop/devicetree/control.rst for more info.
+====================================================
+
+Files:
+u-boot.bin (Embedded DTB)
+u-boot-nodtb.bin (Separated DTB)
